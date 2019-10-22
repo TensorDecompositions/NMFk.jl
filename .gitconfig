@@ -5,9 +5,6 @@
 	ignorecase = true
 	precomposeunicode = true
 	logallrefupdates = true
-[remote "origin"]
-	url = git@github.com:TensorDecompositions/NMFk.jl.git
-	fetch = +refs/heads/*:refs/remotes/origin/*
 [remote "gitlab"]
 	url = git@gitlab.com:/TensorFactorization/NMFk.jl.git
 	fetch = +refs/heads/*:refs/remotes/origin/*
